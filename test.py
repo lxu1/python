@@ -1,3 +1,6 @@
+print(1)
+import sys
+
 def print_testcase(expected_value, actual_value):
     print('expected_value:{}, actual value: {}'.format(expected_value,actual_value))
 
